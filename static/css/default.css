@@ -4,6 +4,9 @@ body.ListPage span {
 body {
     background: #fff;
 }
+code {
+    overflow: auto;
+}
 .success {
     color: #5cb85c;
     font-weight: bold;
